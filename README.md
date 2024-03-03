@@ -1,0 +1,1 @@
+This is my first backend project. You can get my database by using sql files that are stored in resources/db_files. For any problem you faced or any feedback, you can reach me by using 'emircankirezz@gmail.com' email address. 
